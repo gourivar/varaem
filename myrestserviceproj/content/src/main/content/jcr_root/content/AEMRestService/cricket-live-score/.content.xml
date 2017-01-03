@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2016-03-07T07:17:20.854-06:00"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/myrestserviceproj/templates/liveScore"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="Cricket Live Score"
+        sling:resourceType="/apps/myrestserviceproj/components/page/cricinfoliveScore"/>
+</jcr:root>

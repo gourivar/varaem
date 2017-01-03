@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>My RestService Package</comment>
+<entry key="createdBy">pavi</entry>
+<entry key="name">myrestserviceproj-content</entry>
+<entry key="created">2017-01-03T12:35:57.947-0600</entry>
+<entry key="groupId">my-group-id</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">My RestService</entry>
+<entry key="description">Maven Multimodule project for My RestService.</entry>
+<entry key="artifactId">myrestserviceproj-content</entry>
+<entry key="path">/etc/packages/My RestService/myrestserviceproj-content.zip</entry>
+</properties>

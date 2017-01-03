@@ -1,0 +1,9 @@
+com\mycompany\myrestservice\impl\CricketscoreImpl.class
+com\mycompany\myrestservice\package-info.class
+com\mycompany\myrestservice\Accuweather.class
+com\mycompany\myrestservice\HelloService.class
+com\mycompany\myrestservice\MyOsgiClass.class
+com\mycompany\myrestservice\impl\AccuweatherImpl.class
+com\mycompany\myrestservice\Cricketscore.class
+com\mycompany\myrestservice\impl\HelloServiceImpl.class
+com\mycompany\myrestservice\impl\filters\LoggingFilter.class
